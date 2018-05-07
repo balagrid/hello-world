@@ -1,9 +1,9 @@
 # hello-world
-hello-world
-hello-world2
-hello-world3
-hello-world4
-hello-world5
-hello-world6
-hello-world7
-hello-world8
+https://github.com/trending
+https://github.com/trending/java?
+https://github.com/trending/javascript?
+https://github.com/trending/python?
+https://github.com/trending/r?
+https://github.com/TechPrimers?
+https://github.com/bsnyder?
+https://github.com/torvalds/linux
