@@ -15,3 +15,5 @@ machine-learning:
 xg-boost:
 https://github.com/tqchen/xgboost
 https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf
+r-step-by-step:
+http://www.datasciencemadesimple.com/apply-function-r/
